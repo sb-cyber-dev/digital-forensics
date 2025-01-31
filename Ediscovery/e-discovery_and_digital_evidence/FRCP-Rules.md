@@ -1,79 +1,7 @@
-# E-Discovery and Digital Evidence
-
----
 
 
-## Glossary
 
-- **E-discovery:** Process of applying traditional legal discovery process to electronic evidence
-- **ESI:** Electronically Stored Information
-- **MAC times:** Modified, Accessed, and Created dates and times
-- **Digital Evidence:** data or files in digital format pertaining to a civil or criminal complaint
-
----
-
-
-## Types of Digital Evidence
-- Data
-- Metadata
----
-
-## Cloud Computing and Digital Evidence
-**Reference:** [NIST (SP 800-145) Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
-
-### Essential Characteristics
-
-- On-demand self-service
-- Broad network access
-- Resource pooling
-- Rapid elasticity
-- Measured service
-
-### Service Models
-- SaaS (Software as a Service)
-- PaaS (Platform as a Service)
-- IaaS (Infrastructure as a Service)
-
-
-### Deployment Models
-- Private cloud
-- Community cloud
-- Public cloud
-- Hybrid cloud
-
----
-
-## Factors Affecting Evidence Acquisition
-
-- **Civil cases:** evidence acquired by issuing a request for production
-  - Company responsibility to store and produce files, per the document retention order
-- **Criminal cases:** 
-  - Requires strict adherence to Chain of Custody (ensure no tampering with evidence)
-  - Use search warrants, subpoenas, etc.
-- Civil cases can develop into criminal cases, and vice versa. 
-
-
-- **Digital Forensics cases:** 
-  - In a forensics lab, create forensic image (copies a device down to the smallest component) of device, and analyze image.
-  - Can potentially find deleted files or file fragments (criminal cases only)
-  
-
-- Reduce Cost and Time
-  - Narrow down scope (keywords, timeframe, specific files)
-
----
-
-## Federal Rules in U.S. Courts
-
-- 3 Sets of rules governing conduct of federal court cases
-  - FRCP (Federal Rules of Civil Procedure)
-  - FRCrP (Federal Rules of Criminal Procedure)
-  - FRE (Federal Rules of Evidence)
-
-- State interpretation of rules
-
-
-### Federal Rules of Civil Procedure (FRCP)
+# Federal Rules of Civil Procedure (FRCP)
 
 Reference: [US Courts Forms and Rules](https://www.uscourts.gov/forms-rules/current-rules-practice-procedure/federal-rules-civil-procedure)
 
@@ -81,13 +9,13 @@ Established by US Supreme Court in 1938
 
 ---
 
-#### FRCP Rule 1. Scope and Purpose
+## FRCP Rule 1. Scope and Purpose
 
 "...to secure the just, speedy, and inexpensive determination of every action and proceeding."
 
 ---
 
-#### FRCP Rule 16. Pretrial Conferences; Scheduling; Management
+## FRCP Rule 16. Pretrial Conferences; Scheduling; Management
 
 - "The scheduling order... the judge must issue it within the earlier of 90 days after any defendant has been served with the complaint or 60 days after any defendant has appeared."
 - "The scheduling order must... complete discovery..."
@@ -104,7 +32,7 @@ Established by US Supreme Court in 1938
 
 ---
 
-#### FRCP Rule 26. Duty to Disclose; General Provisions Governing Discovery
+## FRCP Rule 26. Duty to Disclose; General Provisions Governing Discovery
 
 - **"Initial Disclosure...** a party must, without awaiting a discovery request, provide to the other party..."
   - "a copy - or a description by category and location - of all documents, electronically stored information, and tangible things that disclosing party has in its possession, custody, or control and may use to support its claims or defenses, unless the use would be solely for impeachment..."
@@ -207,7 +135,7 @@ Established by US Supreme Court in 1938
 
 ---
 
-#### FRCP Rule 33. Interrogatories to Parties
+## FRCP Rule 33. Interrogatories to Parties
 
 - "Number. Unless otherwise... a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts."
 - "Scope. An interrogatory may relate to any matter than may be inquired into under Rule26(b). ... not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time."
@@ -225,7 +153,7 @@ Established by US Supreme Court in 1938
 
 ---
 
-#### FRCP Rule 34. Producing Documents, Electronically Stored Information, and Tangible things, or Entering onto Land, for Inspection and Other Purposes
+## FRCP Rule 34. Producing Documents, Electronically Stored Information, and Tangible things, or Entering onto Land, for Inspection and Other Purposes
 
 - "In general. A party may serve on any other party a request within the scope of Rule 26(b)"
   - "to produce and permit the requesting party or its representative to inspect, copy, test, or sample the following items in the responding party's possession, custody, or control"
@@ -246,7 +174,7 @@ Established by US Supreme Court in 1938
 
 ---
 
-#### FRCP Rule 37. Failure to Make or to Cooperate in Discovery; Sanctions
+## FRCP Rule 37. Failure to Make or to Cooperate in Discovery; Sanctions
 
 - "Motion for an order compelling disclosure or discovery."
   - "On notice to other parties and all affected persons..."
