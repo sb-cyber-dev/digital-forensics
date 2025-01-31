@@ -68,6 +68,56 @@
 - 3 Sets of rules governing conduct of federal court cases
     - [FRCP (Federal Rules of Civil Procedure)](./FRCP-Rules.md)
     - FRCrP (Federal Rules of Criminal Procedure)
+      - Rule 41. Search and Seizure
+      - Department of Justice
+        - [Searching and Seizing Computers and Obtaining Electronic Evidence in Criminal Investigations](https://www.justice.gov/d9/criminal-ccips/legacy/2015/01/14/ssmanual2009_002.pdf)
     - FRE (Federal Rules of Evidence)
+      - U.S. Supreme Court
+      - Article I, Rule 103. Rulings on Evidence
+      - Article I, Rule 105. Limited Admissibility
+      - Article I, Rule 106. Remainder of Related Writings or Recorded Statements
+      - **Article IV. Relevancy and Its Limits**
+      - **Article VII. Opinions and Expert Testimony**
+      - **Article VIII. Hearsay**
+      - **Article X. Contents of Writings, Recordings, and Photographs**
+
 
 - State interpretation of rules
+
+---
+
+## Rules and Policies Governing Digital Evidence
+
+
+### Location
+
+- cloud load balancing leads to indeterminate locations
+- Affected by country laws of where data resides and is stored
+
+
+### Sedona Principle
+
+- guides for handling electronic document
+- 14 pinciples that link to the FRCP
+- framework for what a company must do to prepare for possible litigation
+- "best practices" for lawyers addressing electronic document production, in a defensible manner
+
+
+### FRCP Amendments
+
+- 2006, amended to address e-discovery, ESI
+- require companies to protect data that might be subject to discovery in anticipated litigation
+- maintain both searchability and metadata
+  - scanned image/pdf copies make searchability more difficult or require further processing
+  - metadata is lost when non-native files are produced
+    - creation date
+    - deletion date
+    - originating IP address, etc.
+- Rule37(f). Safe Harbor
+  - the court cannot impose sanctions when a party destroys ESI as part of its "routine, good faith" operations
+  - Destroying ESI in anticipation of litigation is not protected
+    - Place a "litigation hold" on all potentially relevant ESI
+      - Restricts a company from deleting, changing, or purging data or backups. 
+
+
+
